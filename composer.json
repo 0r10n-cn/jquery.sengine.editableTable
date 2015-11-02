@@ -1,0 +1,22 @@
+{
+    "name": "0r10n-cn/jquery.sengine.editableTable",
+    "description": "The Gii extension for the Yii framework",
+    "keywords": ["jquery", "jquery-ui", "widget", "table editor"],
+    "type": "jquery-ui-widget",
+    "license": "The MIT License (MIT)",
+    "support": {
+        "issues": "https://github.com/0r10n-cn/jquery.sengine.editableTable/issues",
+        "source": "https://github.com/0r10n-cn/jquery.sengine.editableTable/"
+    },
+    "authors": [
+        {
+            "name": "Andrew Yurcheko",
+            "email": "ayurchenko87@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "bower-asset/jquery": ">=2.*",
+        "bower-asset/jquery-ui": ">=1.*",
+    }
+}
